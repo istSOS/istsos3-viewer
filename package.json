@@ -14,11 +14,15 @@
     "author": "",
     "license": "ISC",
     "peerDependencies": {
+        "istsos3-core": "^1.0.0",
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
-        "istsos3-core": "^1.0.0",
         "semantic-ui-css": "^2.2.12",
-        "semantic-ui-react": "^0.77.1"
+        "semantic-ui-react": "^0.77.1",
+        "vega": "^3.0.8",
+        "vega-lite": "^2.0.3",
+        "vega-embed": "^3.0.0-rc7",
+        "vega-tooltip": "^0.4.4"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
@@ -35,6 +39,10 @@
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
         "semantic-ui-css": "^2.2.12",
-        "semantic-ui-react": "^0.77.1"
+        "semantic-ui-react": "^0.77.1",
+        "vega": "^3.0.8",
+        "vega-embed": "^3.0.0-rc7",
+        "vega-lite": "^2.0.3",
+        "vega-tooltip": "^0.4.4"
     }
 }
