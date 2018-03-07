@@ -15,14 +15,11 @@
     "license": "ISC",
     "peerDependencies": {
         "istsos3-core": "^1.0.0",
+        "istsos3-ui": "^1.0.0",
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
         "semantic-ui-css": "^2.2.12",
-        "semantic-ui-react": "^0.77.1",
-        "vega": "^3.0.8",
-        "vega-lite": "^2.0.3",
-        "vega-embed": "^3.0.0-rc7",
-        "vega-tooltip": "^0.4.4"
+        "semantic-ui-react": "^0.78.3"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
@@ -31,18 +28,16 @@
         "babel-preset-es2015": "^6.24.1",
         "babel-preset-react": "^6.24.1",
         "babel-preset-stage-1": "^6.24.1",
+        "echarts": "^4.0.4",
         "eslint": "^4.13.1",
         "eslint-plugin-import": "^2.8.0",
         "eslint-plugin-jsx-a11y": "^6.0.3",
         "eslint-plugin-react": "^7.5.1",
         "eslint-watch": "^3.1.3",
+        "npm": "^5.6.0",
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
         "semantic-ui-css": "^2.2.12",
-        "semantic-ui-react": "^0.77.1",
-        "vega": "^3.0.8",
-        "vega-embed": "^3.0.0-rc7",
-        "vega-lite": "^2.0.3",
-        "vega-tooltip": "^0.4.4"
+        "semantic-ui-react": "^0.78.3"
     }
 }
